@@ -105,6 +105,7 @@
     <Compile Include="UserAccount.aspx.designer.cs">
       <DependentUpon>UserAccount.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Utilities\Connection.cs" />
     <Compile Include="Utilities\obj\Debug\.NETFramework,Version=v4.5.AssemblyAttributes.cs" />
     <Compile Include="Utilities\obj\Release\.NETFramework,Version=v4.5.AssemblyAttributes.cs" />
     <Compile Include="Utilities\Properties\AssemblyInfo.cs" />
